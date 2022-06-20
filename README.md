@@ -5,6 +5,9 @@
 
   ## Description 
   This is a backend to a social network api, where users can create edit and delete thoughts,aswell as react to other users thoughts. Also can create new users. 
+  
+  <img width="1599" alt="Screen Shot 2022-06-20 at 3 35 43 PM" src="https://user-images.githubusercontent.com/98415796/174667888-ff17dff5-5340-46ae-b4a3-760748985cd5.png">
+
 
   ## Table of Contents
   - [Installation](#installation)
